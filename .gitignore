@@ -9,3 +9,6 @@ media
 realestate/
 .DS_Store
 /static
+resources/
+listings/migrations/
+realtors/migrations/
